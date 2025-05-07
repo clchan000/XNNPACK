@@ -7,19 +7,19 @@
 # LICENSE file in the root directory of this source tree.
 
 # Build objects and artifacts
-bazel-bin
-bazel-genfiles
-bazel-out
-bazel-testlogs
-bazel-XNNPACK
-bin/
-build/
-build-*/
-deps/
-lib/
-libs/
-obj/
-out/
+xnnpack/bazel-bin
+xnnpack/bazel-genfiles
+xnnpack/bazel-out
+xnnpack/bazel-testlogs
+xnnpack/bazel-XNNPACK
+xnnpack/bin/
+xnnpack/build/
+xnnpack/build-*/
+xnnpack/deps/
+xnnpack/lib/
+xnnpack/libs/
+xnnpack/obj/
+xnnpack/out/
 *.pyc
 *.pyo
 *.log
